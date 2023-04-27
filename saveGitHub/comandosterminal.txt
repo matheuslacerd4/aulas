@@ -1,0 +1,13 @@
+inicializar o projeto git init // para um projeto novo 
+
+
+
+git add .         //adiciona os arquivos para o estado adicionado
+
+git commit -m "mensagem"      // salva as alterações no repositorio local(computador) 
+
+git push              //envia as alterações para o GitHub  // primeiro uso push -u origin 
+
+
+
+
